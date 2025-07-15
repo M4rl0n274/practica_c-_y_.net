@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\marlo\\OneDrive\\Documentos\\1Proyectos_Programacion\\C#_.net\\CSharp\\CSharp.csproj": {}
+    "C:\\Users\\marlo\\OneDrive\\Documentos\\1Proyectos_Programacion\\C#_.net\\CSharp\\CSharp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\marlo\\OneDrive\\Documentos\\1Proyectos_Programacion\\C#_.net\\CSharp\\CSharp.csproj": {
+    "C:\\Users\\marlo\\OneDrive\\Documentos\\1Proyectos_Programacion\\C#_.net\\CSharp\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\marlo\\OneDrive\\Documentos\\1Proyectos_Programacion\\C#_.net\\CSharp\\CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\marlo\\OneDrive\\Documentos\\1Proyectos_Programacion\\C#_.net\\CSharp\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "c:\\Users\\marlo\\OneDrive\\Documentos\\1Proyectos_Programacion\\C#_.net\\CSharp\\CSharp.csproj",
+        "projectPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\1Proyectos_Programacion\\C#_.net\\CSharp\\CSharp.csproj",
         "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\marlo\\OneDrive\\Documentos\\1Proyectos_Programacion\\C#_.net\\CSharp\\obj\\",
+        "outputPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\1Proyectos_Programacion\\C#_.net\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
