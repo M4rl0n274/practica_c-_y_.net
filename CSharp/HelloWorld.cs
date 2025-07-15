@@ -117,9 +117,14 @@ namespace CSharpHelloWorld
 
             }
 
-
+            // Funciones
             MyFunction();
             Console.WriteLine(MyFunctionWithReturn(5));
+
+            //clases
+            var myClass = new Myclass("Marlon");
+            myClass.myName = "Marlon2";
+            Console.WriteLine(myClass.myName);
 
         }
 
@@ -131,6 +136,18 @@ namespace CSharpHelloWorld
         {
             return 10 + param;
         }
+
+        class Myclass
+        {
+            public string myName { get; set; }
+
+            public Myclass(string myCurrentName)
+            {
+                myName = myCurrentName;
+            }
+        }
+
+
 
 
     }
