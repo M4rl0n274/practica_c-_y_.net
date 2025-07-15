@@ -1,0 +1,15 @@
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\bin\Debug\net9.0\CSharp.exe
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\bin\Debug\net9.0\CSharp.deps.json
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\bin\Debug\net9.0\CSharp.runtimeconfig.json
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\bin\Debug\net9.0\CSharp.dll
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\bin\Debug\net9.0\CSharp.pdb
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\obj\Debug\net9.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\obj\Debug\net9.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\obj\Debug\net9.0\CSharp.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\obj\Debug\net9.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\obj\Debug\net9.0\CSharp.sourcelink.json
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\obj\Debug\net9.0\CSharp.dll
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\obj\Debug\net9.0\refint\CSharp.dll
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\obj\Debug\net9.0\CSharp.pdb
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\obj\Debug\net9.0\CSharp.genruntimeconfig.cache
+C:\Users\marlo\OneDrive\Documentos\1Proyectos_Programacion\C#_.net\CSharp\obj\Debug\net9.0\ref\CSharp.dll
